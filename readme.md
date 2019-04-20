@@ -5,9 +5,9 @@ Datos importantes para utilizar la App:
 	- cp .env.example .env
 	- nano .env
 		- Modificar los parametros de la bases de datos:
-			· Nombre DB: task
-			· Usuario: admin
-			· Clave: admin
+			- Nombre DB: task
+			- Usuario: admin
+			- Clave: admin
 	- php artisan key:generate
 	- php artisan migrate
 	- php artisan serve
